@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @admin-lab600
 - 👀 I’m interested in Flutter, AI, Godot.
-- 🌱 I’m currently learning how to start and run an solo indie app studio. 
+- 🌱 I’m currently learning how to start and run a solo indie app studio. 
 - 📫 How to reach me admin@lab600.com.
 
 <!---
